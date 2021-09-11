@@ -1,8 +1,5 @@
 # UNICAMP
 
-[![GitHub tag](https://img.shields.io/github/v/tag/egemenongel/unicamp)](https://github.com/egemenongel/unicamp/tree/v1.0-beta)
-
-
 ## **Table of Contents**
 
 - [UNICAMP](#unicamp)
