@@ -34,11 +34,9 @@ Unicamp is a social media app for university and high school students. Students 
 
 ### Home Page
 
-<img src="https://user-images.githubusercontent.com/73590188/129625922-724856c8-ef03-4426-a512-678e5644ef8c.jpg" alt="Home" width="400"/>
+<img src="https://user-images.githubusercontent.com/73590188/146686124-7e21ebf2-769e-485b-b921-8d803c085846.jpg" alt="Home" width="400"/>
 
-### Drawer
-
-<img src="https://user-images.githubusercontent.com/73590188/129698270-d5f857a9-9fc1-45a7-93d1-b3b311725bf3.jpg" alt="Drawer" width="400"/>
+<img src="https://user-images.githubusercontent.com/73590188/146686112-6f97ba9c-6b64-41f0-9cea-552028ded29d.jpg" alt="Drawer" width="400"/>
 
 ### Profile Page
 
